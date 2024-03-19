@@ -1,0 +1,20 @@
+.weather-app {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  div {
+    margin-top: 20px;
+  }
+  
